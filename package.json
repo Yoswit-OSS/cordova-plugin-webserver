@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-webserver",
+  "name": "@yoswit/cordova-plugin-webserver",
   "version": "1.0.1",
   "description": "Cordova Plugin Webserver",
   "homepage": "https://github.com/bykof/cordova-plugin-webserver/",
